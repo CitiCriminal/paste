@@ -1,0 +1,30 @@
+body{
+    background-color:#03085b;
+}
+
+h1{
+    color:white;
+    font-family:monospace;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:150px;
+}
+h2{
+    color:white;
+    font-family:monospace;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:150px;
+}
+img{
+    width:750px;
+    height:500px;
+}
+
+.image{
+    position:relative;
+    text-align:center;
+    top:150px;
+}

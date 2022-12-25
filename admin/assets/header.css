@@ -1,0 +1,31 @@
+.header{
+    position:relative;
+    left:-40px;
+    width:110%;
+    height:80px;
+    border:2px solid white;
+    top:-10px;
+    text-align:center;
+}
+
+.logo{
+    width:175px;
+    height:90px;
+    position:relative;
+    float:left;
+    left:75px;
+    bottom:8px;
+}
+
+.header-btn{
+    position:relative;
+    text-align:center;
+    right:150px;
+    top:20px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-size:30px;
+}
